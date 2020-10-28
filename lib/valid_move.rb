@@ -4,5 +4,5 @@ board[index] != " " && board[index] != nil && board[index] != ""
 end
 
 def valid_move?(board, index)
-  #if the position is not taken 
+  #if the position is not taken
 end
