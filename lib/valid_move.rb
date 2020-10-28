@@ -1,4 +1,5 @@
 def valid_move?(board, index)
+  #if the position is not taken
 end
 
 
