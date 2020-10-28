@@ -1,5 +1,4 @@
 def valid_move?(board, index)
-  board[index] != " " && board[index] != nil && board[index] != ""
 end
 
 
