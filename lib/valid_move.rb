@@ -1,5 +1,5 @@
 def valid_move?
-end 
+end
 
 
 def position_taken?(board, index)
